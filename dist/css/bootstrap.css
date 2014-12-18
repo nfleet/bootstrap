@@ -1177,6 +1177,24 @@ a.text-warning:hover {
 a.text-danger:hover {
   color: #843534;
 }
+.text-extra1 {
+  color: #936;
+}
+a.text-extra1:hover {
+  color: #73264d;
+}
+.text-extra2 {
+  color: #593e1a;
+}
+a.text-extra2:hover {
+  color: #32230e;
+}
+.text-extra3 {
+  color: #036;
+}
+a.text-extra3:hover {
+  color: #001933;
+}
 .bg-primary {
   color: #fff;
   background-color: #008080;
